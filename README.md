@@ -22,6 +22,7 @@ Repository|Description|Language
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|JavaScript
 [SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|C#
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#
+[ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|Python
 [node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|JavaScript
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|JavaScript
 
