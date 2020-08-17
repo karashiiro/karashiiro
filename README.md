@@ -15,6 +15,7 @@ Repository|Description|Language
 ---|---|---
 [PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for Dalamud.|C#,C++
 [NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud.|C#
+[SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.|C#
 
 ### Packages
 Repository|Description|Language
