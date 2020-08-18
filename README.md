@@ -18,7 +18,7 @@ Repository|Description|Language
 [NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud.|C#
 [SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.|C#
 
-### Packages
+### Packages/Libraries
 Repository|Description|Language
 ---|---|---
 [Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++
