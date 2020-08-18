@@ -9,6 +9,7 @@ Repository|Description|Language
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV|C#
 [DisClocks](https://github.com/karashiiro/DisClocks)|Clocks for your Discord servers :V|JavaScript
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|JavaScript
+[Aethersight-CLI](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++
 
 ### Plugins
 Repository|Description|Language
@@ -20,6 +21,7 @@ Repository|Description|Language
 ### Packages
 Repository|Description|Language
 ---|---|---
+[Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|JavaScript
 [SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|C#
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#
