@@ -27,7 +27,7 @@ Repository|Description|Language
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|C#
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|Python
-[node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|JavaScript
+[node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|JavaScript,C#
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|JavaScript
 
 ### Other tools
