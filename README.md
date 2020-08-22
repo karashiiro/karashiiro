@@ -9,7 +9,7 @@ Repository|Description|Language
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV|C#
 [DisClocks](https://github.com/karashiiro/DisClocks)|Clocks for your Discord servers :V|JavaScript
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|JavaScript
-[Aethersight-CLI](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++
+[Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|C++
 
 ### Plugins
 Repository|Description|Language
