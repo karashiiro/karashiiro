@@ -22,6 +22,7 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++
+[Aethersight.NET](https://github.com/karashiiro/Aethersight.NET)|Windows-only .NET wrapper for [Aethersight](https://github.com/karashiiro/Aethersight).|C#
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|JavaScript
 [SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|C#
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#
