@@ -14,9 +14,9 @@ Repository|Description|Language
 ### Plugins
 Repository|Description|Language
 ---|---|---
-[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/dalamud-plugin-dl-count-gh-badge)|C#, C++
-[NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FNeatNoter)](https://github.com/karashiiro/dalamud-plugin-dl-count-gh-badge)|C#
-[SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FSoundSetter)](https://github.com/karashiiro/dalamud-plugin-dl-count-gh-badge)|C#
+[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/PingPlugin)|C#, C++
+[NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FNeatNoter)](https://github.com/karashiiro/NeatNoter)|C#
+[SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FSoundSetter)](https://github.com/karashiiro/SoundSetter)|C#
 
 ### Packages/Libraries
 Repository|Description|Language
