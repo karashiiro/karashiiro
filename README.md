@@ -3,13 +3,13 @@
 ## Notable work
 
 ### Applications
-Repository|Description|Language
----|---|---
-[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|TypeScript
-[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV|C#
-[DisClocks](https://github.com/karashiiro/DisClocks)|Clocks for your Discord servers :V|JavaScript
-[DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|JavaScript
-[Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|C++
+Repository|Description|Language|Downloads
+---|---|---|---
+[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|TypeScript|
+[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV|C#|
+[DisClocks](https://github.com/karashiiro/DisClocks)|Clocks for your Discord servers :V|JavaScript|
+[DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|JavaScript|
+[Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|C++|[![GitHub All Releases](https://img.shields.io/github/downloads/karashiiro/Aethersight/total?color=brightgreen)](https://github.com/karashiiro/Aethersight/releases/latest)
 
 ### Plugins
 Repository|Description|Language|Downloads
@@ -32,6 +32,6 @@ Repository|Description|Language|Downloads
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|JavaScript|[![npm](https://img.shields.io/npm/dw/garlandtools-api?color=red&logo=NPM)](https://www.npmjs.com/package/garlandtools-api)
 
 ### Other tools
-Repository|Description|Language
----|---|---
-[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A project template for Dalamud plugins.|C#
+Repository|Description|Language|Downloads
+---|---|---|---
+[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A project template for Dalamud plugins.|C#|
