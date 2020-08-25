@@ -22,14 +22,14 @@ Repository|Description|Language|Downloads
 Repository|Description|Language|Downloads
 ---|---|---|---
 [Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|C++|
-[Aethersight.NET](https://github.com/karashiiro/Aethersight.NET)|Windows-only .NET wrapper for the [Aethersight](https://github.com/karashiiro/Aethersight) CLI.|C#|[![Nuget](https://img.shields.io/nuget/dt/Aethersight.NET?color=blue&logo=NuGet)](https://www.nuget.org/packages/Aethersight.NET/)
-[koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|JavaScript|[![npm](https://img.shields.io/npm/dw/koa-queryparams?color=red&logo=NPM)](https://www.npmjs.com/package/koa-queryparams)
-[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|C#|[![Nuget](https://img.shields.io/nuget/dt/SimpleIPCHttp?color=blue&logo=NuGet)](https://www.nuget.org/packages/SimpleIPCHttp/)
-[FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#|[![Nuget](https://img.shields.io/nuget/dt/FFXIVWeather?color=blue&logo=NuGet)](https://www.nuget.org/packages/FFXIVWeather/)
-[FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|C#|[![Nuget](https://img.shields.io/nuget/dt/FFXIVWeather.Lumina?color=blue&logo=NuGet)](https://www.nuget.org/packages/FFXIVWeather.Lumina/)
-[ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|Python|[![PyPI - Downloads](https://img.shields.io/pypi/dw/ffxivweather?logo=PyPI&logoColor=white)](https://pypi.org/project/ffxivweather/)
-[node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|JavaScript, C#|[![npm](https://img.shields.io/npm/dw/node-machina-ffxiv?color=red&logo=NPM)](https://www.npmjs.com/package/node-machina-ffxiv)
-[garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|JavaScript|[![npm](https://img.shields.io/npm/dw/garlandtools-api?color=red&logo=NPM)](https://www.npmjs.com/package/garlandtools-api)
+[Aethersight.NET](https://github.com/karashiiro/Aethersight.NET)|Windows-only .NET wrapper for the [Aethersight](https://github.com/karashiiro/Aethersight) CLI.|C#|[![Nuget](https://img.shields.io/nuget/dt/Aethersight.NET?color=blue)](https://www.nuget.org/packages/Aethersight.NET/)
+[koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|JavaScript|[![npm](https://img.shields.io/npm/dw/koa-queryparams?color=red)](https://www.npmjs.com/package/koa-queryparams)
+[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|C#|[![Nuget](https://img.shields.io/nuget/dt/SimpleIPCHttp?color=blue)](https://www.nuget.org/packages/SimpleIPCHttp/)
+[FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|C#|[![Nuget](https://img.shields.io/nuget/dt/FFXIVWeather?color=blue)](https://www.nuget.org/packages/FFXIVWeather/)
+[FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|C#|[![Nuget](https://img.shields.io/nuget/dt/FFXIVWeather.Lumina?color=blue)](https://www.nuget.org/packages/FFXIVWeather.Lumina/)
+[ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|Python|[![PyPI - Downloads](https://img.shields.io/pypi/dw/ffxivweather)](https://pypi.org/project/ffxivweather/)
+[node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|JavaScript, C#|[![npm](https://img.shields.io/npm/dw/node-machina-ffxiv?color=red)](https://www.npmjs.com/package/node-machina-ffxiv)
+[garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|JavaScript|[![npm](https://img.shields.io/npm/dw/garlandtools-api?color=red)](https://www.npmjs.com/package/garlandtools-api)
 
 ### Other tools
 Repository|Description|Language|Downloads
