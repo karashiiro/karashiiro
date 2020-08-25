@@ -34,4 +34,4 @@ Repository|Description|Language|Downloads
 ### Other tools
 Repository|Description|Language|Downloads
 ---|---|---|---
-[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A project template for Dalamud plugins.|C#|
+[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A Visual Studio project template for Dalamud plugins.|C#|
