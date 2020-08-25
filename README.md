@@ -12,11 +12,11 @@ Repository|Description|Language
 [Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|C++
 
 ### Plugins
-Repository|Description|Language
----|---|---
-[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/PingPlugin)|C#, C++
-[NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FNeatNoter)](https://github.com/karashiiro/NeatNoter)|C#
-[SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes. [![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FSoundSetter)](https://github.com/karashiiro/SoundSetter)|C#
+Repository|Description|Language|Downloads
+---|---|---|---
+[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for Dalamud.|C#, C++|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/PingPlugin)
+[NeatNoter](https://github.com/karashiiro/NeatNoter)|A note-taking plugin for Dalamud.|C#|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FNeatNoter)](https://github.com/karashiiro/NeatNoter)
+[SoundSetter](https://github.com/karashiiro/SoundSetter)|A Dalamud plugin that allows volume control from anywhere, including gpose and cutscenes.|C#|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FSoundSetter)](https://github.com/karashiiro/SoundSetter)
 
 ### Packages/Libraries
 Repository|Description|Language
