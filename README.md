@@ -1,11 +1,5 @@
 # ( Φ ω Φ )
 
-## Today's list
- - Finish personalized timezone stuff for Prima
- - Finish backpack operation panel
- - Draw Prima
- - [Universalis-FFXIV/Universalis#341](https://github.com/Universalis-FFXIV/Universalis/issues/341)
-
 ## Notable work
 
 ### Applications
@@ -41,3 +35,9 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A Visual Studio project template for Dalamud plugins.|C#
+
+## Today's list
+ - Finish personalized timezone stuff for Prima
+ - Finish backpack operation panel
+ - Draw Prima
+ - [Universalis-FFXIV/Universalis#341](https://github.com/Universalis-FFXIV/Universalis/issues/341)
