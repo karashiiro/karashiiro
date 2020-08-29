@@ -1,5 +1,10 @@
 # ( Φ ω Φ )
 
+## Today's list
+ - Finish personalized timezone stuff for Prima
+ - Finish backpack operation panel
+ - Draw Prima
+
 ## Notable work
 
 ### Applications
