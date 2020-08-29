@@ -4,6 +4,7 @@
  - Finish personalized timezone stuff for Prima
  - Finish backpack operation panel
  - Draw Prima
+ - [Universalis-FFXIV/Universalis#341](https://github.com/Universalis-FFXIV/Universalis/issues/341)
 
 ## Notable work
 
