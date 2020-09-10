@@ -6,7 +6,7 @@
 Repository|Description|Language
 ---|---|---
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|TypeScript
-[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV|C#
+[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV.|C#
 [DisClocks](https://github.com/karashiiro/DisClocks)|Clocks for your Discord servers :V|JavaScript
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|JavaScript
 [Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|C++
