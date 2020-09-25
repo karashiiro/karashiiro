@@ -35,13 +35,3 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A Visual Studio project template for Dalamud plugins.|C#
-
-## What I'm working on
-Today|Not today
----|---
-Anima|Universalis
-CaptchaHero|SoundSetter#1
-||PingPlugin
-||node-zanarkand
-||FFXIV profile overview generator
-||generic-discord-rich-presence
