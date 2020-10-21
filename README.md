@@ -44,4 +44,4 @@ Repository|Description|Language
 ### Other tools
 Repository|Description|Language
 ---|---|---
-[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A Visual Studio project template for Dalamud plugins.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
+[DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|A Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
