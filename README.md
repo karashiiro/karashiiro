@@ -28,7 +28,7 @@ Repository|Description|Language|Downloads
 Repository|Description|Language
 ---|---|---
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
-[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|<img src="https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png" alt="C#" title="C#" />
+[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library. It can be used between processes on the same machine, or across networks.|<img src="https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png" alt="C#" title="C#" />
 
 #### Final Fantasy XIV
 Repository|Description|Language
