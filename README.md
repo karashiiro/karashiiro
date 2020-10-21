@@ -13,6 +13,8 @@ Repository|Description|Language
 [Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
 
 ### Plugins
+
+#### Dalamud
 Repository|Description|Language|Downloads
 ---|---|---|---
 [PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for [Dalamud](https://github.com/goatcorp/Dalamud).|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/PingPlugin)
@@ -21,12 +23,18 @@ Repository|Description|Language|Downloads
 [TextToTalk](https://github.com/karashiiro/TextToTalk)|Chat TTS plugin for [Dalamud](https://github.com/goatcorp/Dalamud). Has support for triggers/exclusions, and WebSocket support for external interfacing.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FTextToTalk)](https://github.com/karashiiro/TextToTalk)
 
 ### Packages/Libraries
+
+#### General-Purpose
+Repository|Description|Language
+---|---|---
+[koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
+[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|<img src="https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png" alt="C#" title="C#" />
+
+#### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
 [Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
 [Aethersight.NET](https://github.com/karashiiro/Aethersight.NET)|Windows-only .NET wrapper for the [Aethersight](https://github.com/karashiiro/Aethersight) CLI.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
-[koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
-[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library.|<img src="https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png" alt="C#" title="C#" />
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/python.png "Python")
