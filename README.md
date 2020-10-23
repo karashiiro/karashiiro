@@ -9,6 +9,7 @@ Repository|Description|Language
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![TypeScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/typescript.png "TypeScript")
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
+[DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that posts to a channel when a Twitter account posts.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
 [Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
 
