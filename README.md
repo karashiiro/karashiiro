@@ -47,3 +47,4 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
+[DalamudPluginProjectTemplateVB](https://github.com/karashiiro/DalamudPluginProjectTemplateVB)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![Visual Basic .NET](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/vb.png "Visual Basic .NET")
