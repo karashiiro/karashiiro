@@ -9,6 +9,7 @@ Repository|Description|Language
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![TypeScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/typescript.png "TypeScript")
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
+[DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
 [Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
 
@@ -28,6 +29,7 @@ Repository|Description|Language|Downloads
 Repository|Description|Language
 ---|---|---
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
+[golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
 [SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library. It can be used between processes on the same machine over localhost. If you really want to, you can even use this to communicate between parts of the same application.|<img src="https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png" alt="C#" title="C#" />
 
 #### Final Fantasy XIV
@@ -45,3 +47,4 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
+[DalamudPluginProjectTemplateVB](https://github.com/karashiiro/DalamudPluginProjectTemplateVB)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![Visual Basic .NET](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/vb.png "Visual Basic .NET")
