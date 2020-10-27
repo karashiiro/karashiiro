@@ -44,6 +44,11 @@ Repository|Description|Language
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
 
 ### Other tools
+
+<details>
+  <summary>Dalamud Plugin Project Templates for Visual Studio</summary>
+  <br>
+  
 Repository|Description|Language
 ---|---|---
 [DalamudPluginProjectTemplate](https://github.com/karashiiro/DalamudPluginProjectTemplate)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
@@ -51,3 +56,4 @@ Repository|Description|Language
 [DalamudPluginFSharp](https://github.com/karashiiro/DalamudPluginFSharp)|An opinionated Visual Studio project template for [Dalamud](https://github.com/goatcorp/Dalamud) plugins, with attributes for more maintainable command setup and teardown.|![F#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/fsharp.png "F#")
 [DalamudPluginPython](https://github.com/karashiiro/DalamudPluginPython)|A Visual Studio template for creating a new [Dalamud](https://github.com/goatcorp/Dalamud) plugin project in Python.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")![Python](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/python.png "Python")
 [DalamudPluginLua](https://github.com/karashiiro/DalamudPluginLua)|A Visual Studio template for creating a new [Dalamud](https://github.com/goatcorp/Dalamud) plugin project in Lua.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")![Lua](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/lua.png "Lua")
+</details>
