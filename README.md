@@ -11,7 +11,6 @@ Repository|Description|Language
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/javascript.png "JavaScript")
-[Aethersight](https://github.com/karashiiro/Aethersight) CLI|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
 
 ### Plugins
 
@@ -35,8 +34,6 @@ Repository|Description|Language
 #### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
-[Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|![C++](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/cpp.png "C++")
-[Aethersight.NET](https://github.com/karashiiro/Aethersight.NET)|Windows-only .NET wrapper for the [Aethersight](https://github.com/karashiiro/Aethersight) CLI.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/csharp.png "C#")
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](https://raw.githubusercontent.com/karashiiro/karashiiro/master/programming_languages/python.png "Python")
