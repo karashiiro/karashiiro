@@ -10,3 +10,4 @@ Name|Description|Notes
 [zanarkandwrapperjson](https://github.com/karashiiro/zanarkandwrapperjson)|A wrapper for the Zanarkand packet sniffer that outputs JSON data for IPC.|
 [Pomshell](https://github.com/karashiiro/Pomshell)|Linkshell manager for Final Fantasy XIV.|
 [fake-xivapi-ko](https://github.com/karashiiro/fake-xivapi-ko)|A fake, locally-hosted XIVAPI serving data from RaWorkspace's datamining repo.|For Universalis to provide KR support; should be rewritten in Lumina.
+[Aethersight](https://github.com/karashiiro/Aethersight)|A simple packet sniffer for FFXIV.|Drops packets too frequently.
