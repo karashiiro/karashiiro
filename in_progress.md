@@ -4,6 +4,7 @@ This is a list of projects that I am currently working on. A project being on th
 ## Projects
 Name|Description|Notes
 ---|---|---
+[Ticker](https://github.com/karashiiro/Ticker)|A tickertape application for streaming.|
 [mogboard-go](https://github.com/Universalis-FFXIV/mogboard-go)|A rewrite of [mogboard](https://github.com/Universalis-FFXIV/mogboard) in Go and React.|
 [Anima](https://github.com/karashiiro/Anima)|it is a mystery|
 [PollPlugin](https://github.com/karashiiro/PollPlugin)|A plugin for plugin developers to broadcast polls to users of their plugins in-game.|
