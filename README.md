@@ -42,6 +42,10 @@ Repository|Description|Language
 
 ### Other tools
 
+Repository|Description|Language
+---|---|---
+[xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|
+
 <details>
   <summary>Dalamud Plugin Project Templates for Visual Studio</summary>
   <br>
