@@ -4,9 +4,9 @@ This is a list of projects that I am currently working on. A project being on th
 ## Projects
 Name|Description|Notes
 ---|---|---
+[Anima](https://github.com/karashiiro/Anima)|it is a mystery|
 [Ticker](https://github.com/karashiiro/Ticker)|A tickertape application for streaming.|
 [mogboard-go](https://github.com/Universalis-FFXIV/mogboard-go)|A rewrite of [mogboard](https://github.com/Universalis-FFXIV/mogboard) in Go and React.|
-[Anima](https://github.com/karashiiro/Anima)|it is a mystery|
 [PollPlugin](https://github.com/karashiiro/PollPlugin)|A plugin for plugin developers to broadcast polls to users of their plugins in-game.|
 [zanarkandwrapperjson](https://github.com/karashiiro/zanarkandwrapperjson)|A wrapper for the Zanarkand packet sniffer that outputs JSON data for IPC.|
 [Pomshell](https://github.com/karashiiro/Pomshell)|Linkshell manager for Final Fantasy XIV.|
