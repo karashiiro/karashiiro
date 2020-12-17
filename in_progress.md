@@ -4,6 +4,7 @@ This is a list of projects that I am currently working on. A project being on th
 ## Projects
 Name|Description|Notes
 ---|---|---
+[SideStream](https://github.com/karashiiro/SideStream)|Twitch assistant for FFXIV.|
 [gaze-tracking](https://github.com/karashiiro/gaze-tracking)|WIP|
 [mogboard-go](https://github.com/Universalis-FFXIV/mogboard-go)|A rewrite of [mogboard](https://github.com/Universalis-FFXIV/mogboard) in Go and React.|
 [PollPlugin](https://github.com/karashiiro/PollPlugin)|A plugin for plugin developers to broadcast polls to users of their plugins in-game.|
