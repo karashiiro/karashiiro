@@ -34,7 +34,6 @@ Repository|Description|Language
 #### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
-[FFXIVPacketCapture](https://github.com/karashiiro/FFXIVPacketCapture)|A packet scanner for FFXIV.|![C#](programming_languages/csharp.png "C#")
 [pcap-ffxiv](https://github.com/karashiiro/pcap-ffxiv)|A zero-IPC library for capturing FFXIV game packets in JS/TS.|![TypeScript](programming_languages/typescript.png "TypeScript")
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
