@@ -46,6 +46,8 @@ Repository|Description|Language
 
 Repository|Description|Language
 ---|---|---
+[FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|JSON opcode repository for FFXIV.|
+[lodestone-css-selectors](https://github.com/karashiiro/lodestone-css-selectors)|CSS selectors for the Lodestone.|
 [xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|
 
 <details>
