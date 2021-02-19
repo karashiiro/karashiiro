@@ -42,7 +42,7 @@ Repository|Description|Language
 [node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|![JavaScript](programming_languages/javascript.png "JavaScript")![C#](programming_languages/csharp.png "C#")
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
-#### PSO2
+#### Phantasy Star Online 2
 Repository|Description|Language
 ---|---|---
 [PSO2News](https://github.com/karashiiro/PSO2News)|PSO2 news scraper.|![C#](programming_languages/csharp.png "C#")
