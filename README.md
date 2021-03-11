@@ -38,7 +38,7 @@ Repository|Description|Language
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](programming_languages/python.png "Python")
-[godestone](https://github.com/karashiiro/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
+[xivapi/godestone](https://github.com/xivapi/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
 [node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|![JavaScript](programming_languages/javascript.png "JavaScript")![C#](programming_languages/csharp.png "C#")
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
@@ -52,7 +52,7 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|JSON opcode repository for FFXIV.|
-[lodestone-css-selectors](https://github.com/karashiiro/lodestone-css-selectors)|CSS selectors for the Lodestone.|
+[xivapi/lodestone-css-selectors](https://github.com/xivapi/lodestone-css-selectors)|CSS selectors for the Lodestone.|
 [xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|
 
 <details>
