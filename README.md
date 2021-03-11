@@ -29,7 +29,6 @@ Repository|Description|Language
 ---|---|---
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](programming_languages/javascript.png "JavaScript")
-[SimpleIPCHttp](https://github.com/karashiiro/SimpleIPCHttp)|A simple IPC library. It can be used between processes on the same machine over localhost. If you really want to, you can even use this to communicate between parts of the same application.|<img src="programming_languages/csharp.png" alt="C#" title="C#" />
 
 #### Final Fantasy XIV
 Repository|Description|Language
