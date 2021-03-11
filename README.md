@@ -40,7 +40,7 @@ Repository|Description|Language
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](programming_languages/python.png "Python")
 [xivapi/godestone](https://github.com/xivapi/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
 [node-machina-ffxiv](https://github.com/karashiiro/node-machina-ffxiv)|An event-based Node.js wrapper for ravahn's Machina network capture library.|![JavaScript](programming_languages/javascript.png "JavaScript")![C#](programming_languages/csharp.png "C#")
-[garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[garlandtools-api](https://github.com/karashiiro/garlandtools-api)|Unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
 #### Phantasy Star Online 2
 Repository|Description|Language
