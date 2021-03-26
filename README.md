@@ -52,7 +52,7 @@ Repository|Description|Language
 Repository|Description|Language
 ---|---|---
 [FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|JSON opcode repository for FFXIV.|![C#](programming_languages/csharp.png "C#")
-[lodestone-id-time](https://github.com/karashiiro/lodestone-id-time)|Formula and reference implementation for the estimated creation time of a FFXIV character given its Lodestone ID.|![Go](programming_languages/go.png "Go")![Python](programming_languages/python.png "Python")
+[lodestone-id-time](https://github.com/karashiiro/lodestone-id-time)|Data scraper, formula and reference implementation for the estimated creation time of a FFXIV character given its Lodestone ID.|![Go](programming_languages/go.png "Go")![Python](programming_languages/python.png "Python")
 [xivapi/lodestone-css-selectors](https://github.com/xivapi/lodestone-css-selectors)|CSS selectors for the Lodestone.|
 [xiv-resources](https://github.com/karashiiro/xiv-resources)|A list of websites and tools for FFXIV.|
 
