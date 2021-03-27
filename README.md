@@ -11,6 +11,7 @@ Repository|Description|Language
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
 ### Plugins
 
