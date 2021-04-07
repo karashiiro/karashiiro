@@ -11,6 +11,7 @@ Repository|Description|Language
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[gacha](https://github.com/karashiiro/gacha)|Dockerized Gacha microservice.|![Go](programming_languages/go.png "Go")
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
 ### Plugins
@@ -39,7 +40,6 @@ Repository|Description|Language
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](programming_languages/python.png "Python")
-[gacha](https://github.com/karashiiro/gacha)|Dockerized Gacha microservice.|![Go](programming_languages/go.png "Go")
 [xivapi/godestone](https://github.com/xivapi/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|Unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
 
