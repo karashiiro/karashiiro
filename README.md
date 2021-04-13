@@ -33,6 +33,7 @@ Repository|Description|Language
 [koa-queryparams](https://github.com/karashiiro/koa-queryparams)|A lightweight query parameter middleware for Koa 2.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [blowfish-tables](https://github.com/karashiiro/blowfish-tables)|Runtime generation of Blowfish tables in a single header file.|![C](programming_languages/c.png "C")
+[justeyecenters](https://github.com/karashiiro/justeyecenters)|Real-time detection of eye centers from a cropped image.|![Go](programming_languages/go.png "Go")
 
 #### Final Fantasy XIV
 Repository|Description|Language
