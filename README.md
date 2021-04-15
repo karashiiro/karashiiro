@@ -1,5 +1,5 @@
 # ( Φ ω Φ )
-[![karashiiro's github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=karashiiro&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=karashiiro&layout=compact&langs_count=8&exclude_repo=bingode)](https://github.com/anuraghazra/github-readme-stats)
+[![karashiiro's github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=karashiiro&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=karashiiro&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Notable work
 
