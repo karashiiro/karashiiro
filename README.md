@@ -40,6 +40,7 @@ Repository|Description|Language
 #### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
+[Dalamud.CrystalTower](https://github.com/goatcorp/Dalamud.CrystalTower)|Plugin system abstractions for Dalamud, to aid in plugin development. |![C#](programming_languages/csharp.png "C#")
 [ffxiv-teamcraft/pcap-ffxiv](https://github.com/ffxiv-teamcraft/pcap-ffxiv)|A library for capturing FFXIV game packets in JS/TS.|![TypeScript](programming_languages/typescript.png "TypeScript")
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
