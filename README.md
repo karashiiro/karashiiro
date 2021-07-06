@@ -12,7 +12,6 @@ Repository|Description|Language
 [discord-stream-preview](https://github.com/karashiiro/discord-stream-preview)|Small API for grabbing the Go Live preview image from a user in an accessible server.|![Go](programming_languages/go.png "Go")
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](programming_languages/javascript.png "JavaScript")
-[gacha](https://github.com/karashiiro/gacha)|Dockerized gacha microservice.|![Go](programming_languages/go.png "Go")
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
 [discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
