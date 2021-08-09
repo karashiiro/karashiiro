@@ -15,6 +15,7 @@ Repository|Description|Language
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
 [discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
+[ytl-bounce](https://github.com/karashiiro/ytl-bounce)|A small application that redirects a YouTube link with a channel ID to the popout chat for a live stream on that channel. |![Go](programming_languages/go.png "Go")
 
 ### Plugins
 
