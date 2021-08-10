@@ -6,7 +6,7 @@
 ### Applications
 Repository|Description|Language
 ---|---|---
-[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![TypeScript](programming_languages/typescript.png "TypeScript")
+[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](programming_languages/csharp.png "C#")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
 [discord-stream-preview](https://github.com/karashiiro/discord-stream-preview)|Small API for grabbing the Go Live preview image from a user in an accessible server.|![Go](programming_languages/go.png "Go")
