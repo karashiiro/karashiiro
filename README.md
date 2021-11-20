@@ -35,6 +35,7 @@ Repository|Description|Language
 [blowfish-tables](https://github.com/karashiiro/blowfish-tables)|Runtime generation of Blowfish tables in a single header file.|![C](programming_languages/c.png "C")
 [justeyecenters](https://github.com/karashiiro/justeyecenters)|Real-time detection of eye centers from a cropped image.|![Go](programming_languages/go.png "Go")
 [wincredentials-rs](https://github.com/karashiiro/wincredentials-rs)|A wrapper around the Win32 API credential management functions.|![Rust](programming_languages/rust.png "Rust")
+[laago](https://github.com/karashiiro/laago)|Go library for Windows' Large Address Aware detection and assignment.|![Go](programming_languages/go.png "Go")
 
 #### Final Fantasy XIV
 Repository|Description|Language
