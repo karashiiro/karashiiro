@@ -6,15 +6,15 @@
 ### Applications
 Repository|Description|Language
 ---|---|---
-[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
-[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](programming_languages/csharp.png "C#")
+[ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
+[discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
 [discord-stream-preview](https://github.com/karashiiro/discord-stream-preview)|Small API for grabbing the Go Live preview image from a user in an accessible server.|![Go](programming_languages/go.png "Go")
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](programming_languages/go.png "Go")
 [DiscordRSS](https://github.com/karashiiro/DiscordRSS)|A simple bot that pumps RSS feeds into channels.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](programming_languages/csharp.png "C#")
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
-[ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
-[discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
+[Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
 [ytl-bounce](https://github.com/karashiiro/ytl-bounce)|A small application that redirects a link with a YouTube channel ID to the popout chat for a live stream on that channel. |![Go](programming_languages/go.png "Go")
 
 ### Plugins
@@ -31,11 +31,11 @@ Repository|Description|Language|Downloads
 #### General-Purpose
 Repository|Description|Language
 ---|---|---
-[golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [blowfish-tables](https://github.com/karashiiro/blowfish-tables)|Runtime generation of Blowfish tables in a single header file.|![C](programming_languages/c.png "C")
+[golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [justeyecenters](https://github.com/karashiiro/justeyecenters)|Real-time detection of eye centers from a cropped image.|![Go](programming_languages/go.png "Go")
-[wincredentials-rs](https://github.com/karashiiro/wincredentials-rs)|A wrapper around the Win32 API credential management functions.|![Rust](programming_languages/rust.png "Rust")
 [laago](https://github.com/karashiiro/laago)|Go library for Windows' Large Address Aware detection and assignment.|![Go](programming_languages/go.png "Go")
+[wincredentials-rs](https://github.com/karashiiro/wincredentials-rs)|A wrapper around the Win32 API credential management functions.|![Rust](programming_languages/rust.png "Rust")
 
 #### Final Fantasy XIV
 Repository|Description|Language
@@ -45,8 +45,8 @@ Repository|Description|Language
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
 [ffxivweather-py](https://github.com/karashiiro/ffxivweather-py)|FFXIV weather forecast library for Python applications.|![Python](programming_languages/python.png "Python")
-[xivapi/godestone](https://github.com/xivapi/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|Unofficial Node wrapper for the Garland Tools API.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[xivapi/godestone](https://github.com/xivapi/godestone)|Go scraper for The Lodestone.|![Go](programming_languages/go.png "Go")
 
 #### Phantasy Star Online 2
 Repository|Description|Language
