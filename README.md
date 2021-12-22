@@ -1,7 +1,7 @@
 # ( Φ ω Φ )
 [![karashiiro's github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=karashiiro&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=karashiiro&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
 
-## Notable work
+## My projects
 
 ### Applications
 Repository|Description|Language
@@ -32,7 +32,7 @@ Repository|Description|Language|Downloads
 Repository|Description|Language
 ---|---|---
 [blowfish-tables](https://github.com/karashiiro/blowfish-tables)|Runtime generation of Blowfish tables in a single header file.|![C](programming_languages/c.png "C")
-[golike-promisify](https://github.com/karashiiro/golike-promisify)|Provides function transformations for callback-based functions sort of in the style of Go, using array destructuring.|![JavaScript](programming_languages/javascript.png "JavaScript")
+[GradientDotNet](https://github.com/karashiiro/GradientDotNet)|Image gradient functions implemented in C#.|![C#](programming_languages/csharp.png "C#")
 [justeyecenters](https://github.com/karashiiro/justeyecenters)|Real-time detection of eye centers from a cropped image.|![Go](programming_languages/go.png "Go")
 [laago](https://github.com/karashiiro/laago)|Go library for Windows' Large Address Aware detection and assignment.|![Go](programming_languages/go.png "Go")
 [wincredentials-rs](https://github.com/karashiiro/wincredentials-rs)|A wrapper around the Win32 API credential management functions.|![Rust](programming_languages/rust.png "Rust")
@@ -40,7 +40,7 @@ Repository|Description|Language
 #### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
-[goatcorp/Dalamud.CrystalTower](https://github.com/goatcorp/Dalamud.CrystalTower)|Plugin system abstractions for Dalamud, to aid in plugin development. |![C#](programming_languages/csharp.png "C#")
+[goatcorp/Dalamud.CrystalTower](https://github.com/goatcorp/Dalamud.CrystalTower)|Plugin system abstractions for Dalamud, to aid in plugin development.|![C#](programming_languages/csharp.png "C#")
 [ffxiv-teamcraft/pcap-ffxiv](https://github.com/ffxiv-teamcraft/pcap-ffxiv)|A library for capturing FFXIV game packets in JS/TS.|![TypeScript](programming_languages/typescript.png "TypeScript")
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
