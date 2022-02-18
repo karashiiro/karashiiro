@@ -7,6 +7,7 @@
 Repository|Description|Language
 ---|---|---
 [ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
+[dalamud-plugin-dl-count-gh-badge](https://github.com/karashiiro/dalamud-plugin-dl-count-gh-badge)|Dalamud plugin download count badge|![JavaScript](programming_languages/javascript.png "JavaScript")
 [discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
 [discord-stream-preview](https://github.com/karashiiro/discord-stream-preview)|Small API for grabbing the Go Live preview image from a user in an accessible server.|![Go](programming_languages/go.png "Go")
