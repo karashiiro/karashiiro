@@ -22,9 +22,9 @@ Repository|Description|Language
 #### Dalamud
 Repository|Description|Language|Downloads
 ---|---|---|---
-[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for [Dalamud](https://github.com/goatcorp/Dalamud).|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPingPlugin)](https://github.com/karashiiro/PingPlugin)
-[SoundSetter](https://github.com/karashiiro/SoundSetter)|A [Dalamud](https://github.com/goatcorp/Dalamud) plugin that allows volume control from anywhere, including gpose and cutscenes.|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FSoundSetter)](https://github.com/karashiiro/SoundSetter)
-[TextToTalk](https://github.com/karashiiro/TextToTalk)|Chat TTS plugin for [Dalamud](https://github.com/goatcorp/Dalamud). Has support for triggers/exclusions, and WebSocket support for external interfacing.|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FTextToTalk)](https://github.com/karashiiro/TextToTalk)
+[PingPlugin](https://github.com/karashiiro/PingPlugin)|A ping display plugin for [Dalamud](https://github.com/goatcorp/Dalamud).|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https://vz32sgcoal.execute-api.us-east-1.amazonaws.com/PingPlugin)](https://github.com/karashiiro/PingPlugin)
+[SoundSetter](https://github.com/karashiiro/SoundSetter)|A [Dalamud](https://github.com/goatcorp/Dalamud) plugin that allows volume control from anywhere, including gpose and cutscenes.|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https://vz32sgcoal.execute-api.us-east-1.amazonaws.com/SoundSetter)](https://github.com/karashiiro/SoundSetter)
+[TextToTalk](https://github.com/karashiiro/TextToTalk)|Chat TTS plugin for [Dalamud](https://github.com/goatcorp/Dalamud). Has support for triggers/exclusions, and WebSocket support for external interfacing.|![C#](programming_languages/csharp.png "C#")|[![Download count](https://img.shields.io/endpoint?url=https://vz32sgcoal.execute-api.us-east-1.amazonaws.com/TextToTalk)](https://github.com/karashiiro/TextToTalk)
 
 ### Packages/Libraries
 
