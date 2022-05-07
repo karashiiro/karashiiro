@@ -14,7 +14,7 @@ Repository|Description|Language
 [DTwitterFeed](https://github.com/karashiiro/DTwitterFeed)|A Discord bot that reposts tweets into text channels, additionally translating them if necessary.|![Go](programming_languages/go.png "Go")
 [DiscordRSS2](https://github.com/karashiiro/DiscordRSS2)|A simple bot that pumps RSS feeds into channels.|![F#](programming_languages/fsharp.png "F#")
 [FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.|![C#](programming_languages/csharp.png "C#")
-[goatcorp/operator](goatcorp/operator)|*The* goatcorp email reporting service.|![Go](programming_languages/go.png "Go")
+[goatcorp/operator](https://github.com/goatcorp/operator)|*The* goatcorp email reporting service.|![Go](programming_languages/go.png "Go")
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
 [ytl-bounce](https://github.com/karashiiro/ytl-bounce)|A small application that redirects a link with a YouTube channel ID to the popout chat for a live stream on that channel. |![Go](programming_languages/go.png "Go")
