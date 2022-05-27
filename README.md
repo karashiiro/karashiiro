@@ -6,7 +6,6 @@
 ### Applications
 Repository|Description|Language
 ---|---|---
-[ClearClipboard](https://github.com/karashiiro/ClearClipboard)|One-click clipboard clearing for paranoid people.|![C#](programming_languages/csharp.png "C#")
 [dalamud-plugin-dl-count-gh-badge](https://github.com/karashiiro/dalamud-plugin-dl-count-gh-badge)|Dalamud plugin download count badge|![JavaScript](programming_languages/javascript.png "JavaScript")
 [discord-png2fakegif](https://github.com/karashiiro/discord-png2fakegif)|Converts PNGs into (mostly) still GIFs that Discord recognizes as animated emotes.|![Go](programming_languages/go.png "Go")
 [DiscordClocks](https://github.com/karashiiro/DiscordClocks)|Clocks for your Discord servers.|![Go](programming_languages/go.png "Go")
@@ -17,6 +16,7 @@ Repository|Description|Language
 [goatcorp/operator](https://github.com/goatcorp/operator)|*The* goatcorp email reporting service.|![Go](programming_languages/go.png "Go")
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
+[Universalis-FFXIV/universalis-docs](https://github.com/Universalis-FFXIV/universalis-docs)|Documentation website for Universalis.|![TypeScript](programming_languages/typescript.png "TypeScript")
 [ytl-bounce](https://github.com/karashiiro/ytl-bounce)|A small application that redirects a link with a YouTube channel ID to the popout chat for a live stream on that channel. |![Go](programming_languages/go.png "Go")
 
 ### Plugins
