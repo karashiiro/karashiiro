@@ -50,6 +50,7 @@ Repository|Description|Language
 #### Phantasy Star Online 2
 Repository|Description|Language
 ---|---|---
+[patch-tool](https://github.com/karashiiro/patch-tool)|Simple patch file viewer for PSO2.|![TypeScript](programming_languages/typescript.png "TypeScript") ![Python](programming_languages/python.png "Python")
 [PSO2News](https://github.com/karashiiro/PSO2News)|PSO2 news scraper.|![C#](programming_languages/csharp.png "C#")
 
 ### Other resources
