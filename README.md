@@ -76,4 +76,4 @@ Repository|Description|Language
 </details>
 
 ## Links
-* <a rel="me" href="https://the.goat.place/@karashiiro">Mastodon</a>
+* <a rel="me" href="https://dogno.se/@karashiiro">Mastodon</a>
