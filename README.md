@@ -75,6 +75,3 @@ Repository|Description|Language
 [DalamudPluginPython](https://github.com/karashiiro/DalamudPluginPython)|A Visual Studio template for creating a new [Dalamud](https://github.com/goatcorp/Dalamud) plugin project in Python.|![C#](programming_languages/csharp.png "C#")![Python](programming_languages/python.png "Python")
 [DalamudPluginLua](https://github.com/karashiiro/DalamudPluginLua)|A Visual Studio template for creating a new [Dalamud](https://github.com/goatcorp/Dalamud) plugin project in Lua.|![C#](programming_languages/csharp.png "C#")![Lua](programming_languages/lua.png "Lua")
 </details>
-
-## Links
-* <a rel="me" href="https://dogno.se/@karashiiro">Mastodon</a>
