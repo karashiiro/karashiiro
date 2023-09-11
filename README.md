@@ -36,11 +36,11 @@ Repository|Description|Language
 [blowfish-tables](https://github.com/karashiiro/blowfish-tables)|Runtime generation of Blowfish tables in a single header file.|![C](programming_languages/c.png "C")
 [GradientDotNet](https://github.com/karashiiro/GradientDotNet)|Image gradient functions implemented in C#.|![C#](programming_languages/csharp.png "C#")
 [justeyecenters](https://github.com/karashiiro/justeyecenters)|Real-time detection of eye centers from a cropped image.|![Go](programming_languages/go.png "Go")
+[@the-convocation/twitter-scraper](https://github.com/the-convocation/twitter-scraper)|A port of n0madic/twitter-scraper to Node.js.|![TypeScript](programming_languages/typescript.png "TypeScript")
 
 #### Final Fantasy XIV
 Repository|Description|Language
 ---|---|---
-[goatcorp/Dalamud.CrystalTower](https://github.com/goatcorp/Dalamud.CrystalTower)|Plugin system abstractions for Dalamud, to aid in plugin development.|![C#](programming_languages/csharp.png "C#")
 [ffxiv-teamcraft/pcap-ffxiv](https://github.com/ffxiv-teamcraft/pcap-ffxiv)|A library for capturing FFXIV game packets in JS/TS.|![TypeScript](programming_languages/typescript.png "TypeScript")
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications.|![C#](programming_languages/csharp.png "C#")
 [FFXIVWeather.Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina)|FFXIV weather forecast library for C# applications operating on a system with a local game installation.|![C#](programming_languages/csharp.png "C#")
