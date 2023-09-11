@@ -17,7 +17,6 @@ Repository|Description|Language
 [lodestone-when](https://github.com/karashiiro/lodestone-when)|Website for estimating FFXIV character creation time.|![JavaScript](programming_languages/javascript.png "JavaScript")
 [Universalis-FFXIV/Universalis](https://github.com/Universalis-FFXIV/Universalis)|A crowdsourced market board API for FFXIV.|![C#](programming_languages/csharp.png "C#")
 [Universalis-FFXIV/mogboard-next](https://github.com/Universalis-FFXIV/mogboard-next)|Mogboard, the frontend for the Universalis crowdsourced market data API. |![TypeScript](programming_languages/typescript.png "TypeScript")
-[ytl-bounce](https://github.com/karashiiro/ytl-bounce)|A small application that redirects a link with a YouTube channel ID to the popout chat for a live stream on that channel. |![Go](programming_languages/go.png "Go")
 
 ### Plugins
 
